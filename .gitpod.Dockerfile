@@ -1,4 +1,4 @@
-FROM spmallick/opencv-docker
+FROM spmallick/opencv-docker:opencv-4
 
 # Install custom tools, runtimes, etc.
 # For example "bastet", a command-line tetris clone:
